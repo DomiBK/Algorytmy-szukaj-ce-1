@@ -53,7 +53,7 @@ class Program
 
         }
         else { 
-           Console.WriteLine("cos nie tak");
+           Console.WriteLine("cos jest nie tak");
         }
     }
 }
